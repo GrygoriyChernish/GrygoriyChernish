@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A3FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hryhorii;Fullstack+Developer;Loves+JS+%26+TS;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00A3FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Hryhorii;Fullstack+Developer;Building+Modern+Web+Apps;Always+Learning+%F0%9F%9A%80" />
 </h1>
 
 ---
@@ -13,40 +13,39 @@
 
 ---
 
-## ⚡ Skills
+## ⚡ Skills (Animated)
 
-**Frontend**  
+**Frontend**
 <p>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-80%25-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-85%25-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=black&animation=scale)
+  ![React](https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white&animation=scale)
+  ![Next.js](https://img.shields.io/badge/Next.js-80%25-black?style=for-the-badge&logo=next.js&logoColor=white&animation=scale)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-85%25-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=white&animation=scale)
 </p>
 
-**Backend**  
+**Backend**
 <p>
-  ![Node.js](https://img.shields.io/badge/Node.js-85%25-brightgreen?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-80%25-black?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-75%25-red?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-80%25-darkblue?style=for-the-badge&logo=prisma&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-85%25-brightgreen?style=for-the-badge&logo=node.js&logoColor=white&animation=scale)
+  ![Express](https://img.shields.io/badge/Express-80%25-black?style=for-the-badge&logo=express&logoColor=white&animation=scale)
+  ![NestJS](https://img.shields.io/badge/NestJS-75%25-red?style=for-the-badge&logo=nestjs&logoColor=white&animation=scale)
+  ![Prisma](https://img.shields.io/badge/Prisma-80%25-darkblue?style=for-the-badge&logo=prisma&logoColor=white&animation=scale)
 </p>
 
-**Databases & Tools**  
+**Databases & Tools**
 <p>
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-green?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-85%25-lightblue?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-80%25-black?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-blue?style=for-the-badge&logo=postgresql&logoColor=white&animation=scale)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-green?style=for-the-badge&logo=mongodb&logoColor=white&animation=scale)
+  ![Docker](https://img.shields.io/badge/Docker-85%25-lightblue?style=for-the-badge&logo=docker&logoColor=white&animation=scale)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-80%25-black?style=for-the-badge&logo=githubactions&logoColor=white&animation=scale)
 </p>
 
 ---
 
-## 🎯 Status
-
+## 🎯 Status (Animated Badges)
 <p>
-  <img src="https://img.shields.io/badge/Status-Learning%20React-61dafb?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20AI-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning%20React-61dafb?style=for-the-badge&logo=react&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-ff69b4?style=for-the-badge&animation=blink" />
+  <img src="https://img.shields.io/badge/Status-Exploring%20AI-00ffcc?style=for-the-badge&animation=blink" />
 </p>
 
 ---
@@ -71,8 +70,7 @@ Interactive dashboard with charts, auth & mobile-friendly layout.
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 GitHub Stats (Animated)
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GrygoriyChernish&show_icons=true&theme=radical&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrygoriyChernish&layout=compact&theme=radical&hide_border=true" />
@@ -82,8 +80,8 @@ Interactive dashboard with charts, auth & mobile-friendly layout.
 
 ## 📬 Contact Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&animation=blink"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white&animation=blink"/></a>
 </p>
 
 ---
