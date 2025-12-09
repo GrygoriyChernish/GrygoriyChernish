@@ -67,4 +67,25 @@ Live chat with WebSockets, typing indicators & file sharing.
 ### 📊 **Finance Dashboard**
 Interactive dashboard with charts, auth & mobile-friendly layout.  
 **Stack:** React, NestJS, PostgreSQL  
-💻 Code: https:/
+💻 Code: https://github.com/GrygoriyChernish/project-3
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GrygoriyChernish&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrygoriyChernish&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐ Follow me if you like my work!</p>
