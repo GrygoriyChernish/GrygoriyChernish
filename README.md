@@ -1,3 +1,8 @@
+<!-- =====================================================
+     GitHub Profile README — Hryhorii Chernish
+     Як використовувати: знайди всі TODO нижче і заповни
+     ===================================================== -->
+
 <div align="center">
 
 # Hi, I'm Hryhorii Chernish 👋
@@ -5,7 +10,9 @@
 
 *Fullstack-розробник з України, відкритий до remote-роботи по всьому світу 🌍*
 
+<!-- TODO: замінити YOUR_LINKEDIN на твій нікнейм з URL linkedin.com/in/YOUR_LINKEDIN -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+<!-- TODO: замінити YOUR_TELEGRAM на твій @нікнейм у Telegram (без @) -->
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cga.jsdev@gmail.com)
 
@@ -15,6 +22,7 @@
 
 ## About me / Про мене
 
+<!-- TODO: перепиши під себе — додай роки досвіду, тип проєктів, що тебе відрізняє -->
 **EN** — Fullstack developer with hands-on experience building REST APIs, web applications, and automation tools. I work across the full stack — from designing database schemas to building responsive UIs. Passionate about clean code, good architecture, and solving real problems.
 
 **UA** — Fullstack-розробник з досвідом у побудові REST API, веб-застосунків та інструментів автоматизації. Працюю на всьому стеку — від проєктування схем БД до адаптивних інтерфейсів. Ціную чистий код, продуману архітектуру та вирішення реальних завдань.
@@ -27,6 +35,7 @@
 
 ## Tech Stack
 
+<!-- TODO: видали технології яких не знаєш, додай нові за потреби -->
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -64,8 +73,12 @@
 
 ## Featured Projects / Проєкти
 
-> *(Replace the cards below with your actual repositories)*
-
+<!-- TODO: заміни кожен рядок таблиці на реальний проєкт:
+     - repo-1, repo-2, repo-3 → реальні назви репозиторіїв
+     - "Project Name" → назва проєкту
+     - "Short description..." → 1 речення що це робить
+     - Stack → технології які використав
+     Порядок: найкращий/найсвіжіший проєкт — першим -->
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🔗 Project Name](https://github.com/GrygoriyChernish/repo-1) | Short description of what it does | Node.js · Prisma · REST API |
@@ -76,13 +89,14 @@
 
 ## GitHub Stats
 
+<!-- Статистика підтягується автоматично з твого профілю — нічого не чіпай -->
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrygoriyChernish&theme=tokyonight&hide_border=true)](https://github.com/GrygoriyChernish)
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrygoriyChernish&theme=tokyonight&include_all_commits=true)](https://github.com/GrygoriyChernish)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
 
 </div>
@@ -91,6 +105,7 @@
 
 ## Open to Work / Відкритий до роботи
 
+<!-- TODO: прибери рядки які не підходять -->
 ```
 ✅ Fullstack / Backend / Frontend roles
 ✅ Remote · Ukraine · Relocation considered
