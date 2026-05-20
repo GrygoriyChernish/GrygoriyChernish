@@ -10,12 +10,12 @@
 
 *Fullstack-розробник з України, відкритий до remote-роботи по всьому світу 🌍*
 
-<!-- TODO: замінити YOUR_LINKEDIN на твій нікнейм з URL linkedin.com/in/YOUR_LINKEDIN -->
+<!-- TODO: замінити YOUR_LINKEDIN на твій нікнейм з URL linkedin.com/in/YOUR_LINKEDIN 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-<!-- TODO: замінити YOUR_TELEGRAM на твій @нікнейм у Telegram (без @) -->
+ TODO: замінити YOUR_TELEGRAM на твій @нікнейм у Telegram (без @)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cga.jsdev@gmail.com)
-
+-->
 </div>
 
 ---
