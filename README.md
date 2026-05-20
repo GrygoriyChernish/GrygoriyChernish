@@ -20,7 +20,7 @@
 **UA** — Fullstack-розробник з досвідом у побудові REST API, веб-застосунків та інструментів автоматизації. Працюю на всьому стеку — від проєктування схем БД до адаптивних інтерфейсів. Ціную чистий код, продуману архітектуру та вирішення реальних завдань.
 
 - 🔭 Open to **full-time remote** positions in Ukraine or abroad
-- 💬 Speak: Ukrainian 🇺🇦 · Russian · English (intermediate)
+- 💬 Languages: Ukrainian 🇺🇦 · English (intermediate)
 - 📫 Reach me: **cga.jsdev@gmail.com**
 
 ---
@@ -33,11 +33,15 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -51,9 +55,10 @@
 **Tools & Other**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -73,9 +78,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrygoriyChernish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrygoriyChernish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/GrygoriyChernish)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrygoriyChernish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GrygoriyChernish&theme=tokyonight&hide_border=true)](https://github.com/GrygoriyChernish)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrygoriyChernish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GrygoriyChernish)
 
 </div>
 
