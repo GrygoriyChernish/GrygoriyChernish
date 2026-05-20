@@ -73,12 +73,12 @@
 <!-- =====================================================
 ## Featured Projects / Проєкти
 
-<!-- TODO: заміни кожен рядок таблиці на реальний проєкт:
+ TODO: заміни кожен рядок таблиці на реальний проєкт:
      - repo-1, repo-2, repo-3 → реальні назви репозиторіїв
      - "Project Name" → назва проєкту
      - "Short description..." → 1 речення що це робить
      - Stack → технології які використав
-     Порядок: найкращий/найсвіжіший проєкт — першим -->
+     Порядок: найкращий/найсвіжіший проєкт — першим 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🔗 Project Name](https://github.com/GrygoriyChernish/repo-1) | Short description of what it does | Node.js · Prisma · REST API |
@@ -89,7 +89,7 @@
 
 ## GitHub Stats
 
-<!-- Статистика підтягується автоматично з твого профілю — нічого не чіпай -->
+ Статистика підтягується автоматично з твого профілю — нічого не чіпай 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrygoriyChernish&theme=tokyonight&hide_border=true)](https://github.com/GrygoriyChernish)
