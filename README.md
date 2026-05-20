@@ -78,11 +78,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrygoriyChernish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/GrygoriyChernish)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrygoriyChernish&theme=tokyonight&hide_border=true)](https://github.com/GrygoriyChernish)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrygoriyChernish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GrygoriyChernish)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GrygoriyChernish&theme=tokyonight)](https://github.com/GrygoriyChernish)
 
 </div>
 
